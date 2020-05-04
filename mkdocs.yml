@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: Activité Python Cartographie SNT 2GT
+theme:
+  name: 'material'
+  language: 'fr'
+nav:
+  - Introduction: index.md
+  - 1. Départ: depart.md
+  - 2. Générer la carte: etape2.md
+  - 3. Coordonnées de la carte : etape3.md
+  - 4. Changer le zoom : etape4.md
+  - 5. Ajouter un marqueur : etape5.md
+  - 6. Ajouter une Popup au marqueur : etape6.md
