@@ -16,6 +16,6 @@ Cette activité utilise Repl.it, et nécessite quelques bases en langage Python.
 
 Si vous ne l'avez pas encore vue, je vous renvoie à l'[activité sur les bases de Python](https://activite-python-snt-2020.siovision.fr/).
 
-__(Cette activité est largement inspirée du travail de David Roche sur [Pixees.fr](https://pixees.fr/informatiquelycee/n_site/snt_carto_osmPerso.html))__
+_(Cette activité est largement inspirée du travail de David Roche sur [Pixees.fr](https://pixees.fr/informatiquelycee/n_site/snt_carto_osmPerso.html))_
 
 [>>> Démarrer](depart.md)
